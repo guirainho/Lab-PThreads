@@ -19,10 +19,16 @@ Repositório contendo os códigos-fonte desenvolvidos para a disciplina de Compu
 Requer ambiente Linux (ou WSL) com `gcc`. Para compilar todos os ficheiros C de uma vez, basta correr no terminal:
 ```bash
 make
+```
 
 ## Para limpar os executáveis gerados:
+```bash
 make clean
+```
 
 ## Como executar (Python)
+```bash
 python3 seq.py
 python3 threads.py
+```
+
