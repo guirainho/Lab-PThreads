@@ -7,7 +7,7 @@ Repositório contendo os códigos-fonte desenvolvidos para a disciplina de Compu
 * Marcos Arambasic Rebelo da Silva
 * Matheus Alonso Varjão
 
-## Estrutura dos Ficheiros
+## Estrutura dos Arquivos
 * `contacorrente_*.c`: Simulação bancária demonstrando execução sequencial, condições de corrida e sincronização com Mutex.
 * `soma_vetores.c`: Paralelização de operações memory-bound (vetores gigantes).
 * `matriz_vetor.c`: Paralelização de multiplicação matriz-vetor.
@@ -16,7 +16,7 @@ Repositório contendo os códigos-fonte desenvolvidos para a disciplina de Compu
 * `Makefile`: Automação da compilação dos códigos em C.
 
 ## Como compilar e executar (C)
-Requer ambiente Linux (ou WSL) com `gcc`. Para compilar todos os ficheiros C de uma vez, basta correr no terminal:
+Requer ambiente Linux (ou WSL) com `gcc`. Para compilar todos os arquivos C de uma vez, basta executar no terminal:
 ```bash
 make
 ```
@@ -27,7 +27,7 @@ make clean
 ```
 
 ## Como executar (Python)
-Requer pyhon3 isntalado:
+Requer pyhon3 instalado:
 ```bash
 python3 seq.py
 python3 threads.py
