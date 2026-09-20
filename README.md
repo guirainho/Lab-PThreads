@@ -27,6 +27,7 @@ make clean
 ```
 
 ## Como executar (Python)
+Requer pyhon3 isntalado:
 ```bash
 python3 seq.py
 python3 threads.py
